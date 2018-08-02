@@ -1,5 +1,7 @@
 # a_guide_to_reactive_microservices_for_java_developers
 
+> This is work in progress, Please contribute and star the repo.
+
 #### The Path
   - Good understanding of Java concurrany
   - Java threading Runnable and Callable

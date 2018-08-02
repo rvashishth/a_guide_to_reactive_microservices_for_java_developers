@@ -2,14 +2,18 @@
 
 #### The Path
   - Good understanding of Java concurrany
-  - Runnable and Callable
-  - Future
-  - CompletableFuture
+  - Java threading Runnable and Callable
+  - Future and CompletableFuture
   - Java 8 lambda and stream
   - RxJava2
   - Google Dagger DI
   - Eclipe Vert.x
   
-### vertx-samples
+#### Sample source code
+  - vertx-samples
+    - a simple example of http2 server
+  - rxjava2-samples
 
-  * a simple example of http2 server
+#### Reference
+  -  [Learning RxJava 2 by Thomas Nield](https://www.packtpub.com/application-development/learning-rxjava)
+  -  
